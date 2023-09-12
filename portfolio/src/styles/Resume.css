@@ -1,0 +1,26 @@
+.resume {
+    text-align: center;
+    margin: 50px auto;
+    max-width: 600px;
+  }
+  
+  .resume h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .resume p {
+    font-size: 1rem;
+    margin-bottom: 30px;
+  }
+  
+  .resume ul {
+   
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .resume li {
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
