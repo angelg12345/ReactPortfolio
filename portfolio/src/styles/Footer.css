@@ -1,0 +1,22 @@
+footer {
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .social-links {
+    font-size: 24px;
+  }
+  
+  .social-links a {
+    color: #333;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  .social-icons {
+    font-size: 2rem;
+  }
+  
+  .social-icons a {
+    margin-right: 10px; /* Add some space between the icons */
+  }

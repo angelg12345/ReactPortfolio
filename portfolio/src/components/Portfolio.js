@@ -7,40 +7,41 @@ export default function Portfolio(){
     const projects = [
         {
           title: 'Project 1',
-          description: 'Description ',
-          DeployedApp: 'https://example.com/demo1',
+          imageSrc: 'path-to-image1.jpg',
+          DeployedLink: 'https://example.com/demo1',
           githubLink: 'https://github.com/example/demo1'
         },
         {
-            title: 'Project 2',
-            description: 'Description',
-            DeployedApp: 'https://example.com/demo1',
+            title: 'Project 1',
+            imageSrc: 'path-to-image1.jpg',
+            DeployedLink: 'https://example.com/demo1',
             githubLink: 'https://github.com/example/demo1'
           },
           {
-            title: 'Project 3',
-            description: 'Description',
-            DeployedApp: 'https://example.com/demo1',
+            title: 'Project 1',
+            imageSrc: 'path-to-image1.jpg',
+            DeployedLink: 'https://example.com/demo1',
             githubLink: 'https://github.com/example/demo1'
           },
           {
-            title: 'Project 4',
-            description: 'Description',
-            DeployedApp: 'https://example.com/demo1',
+            title: 'Project 1',
+            imageSrc: 'path-to-image1.jpg',
+            DeployedLink: 'https://example.com/demo1',
             githubLink: 'https://github.com/example/demo1'
           },
           {
-            title: 'Project 5',
-            description: 'Description',
-            DeployedApp: 'https://example.com/demo1',
+            title: 'Project 1',
+            imageSrc: 'path-to-image1.jpg',
+            DeployedLink: 'https://example.com/demo1',
             githubLink: 'https://github.com/example/demo1'
           },
           {
-            title: 'Project 6',
-            description: 'Description',
-            DeployedApp: 'https://example.com/demo1',
+            title: 'Project 1',
+            imageSrc: 'path-to-image1.jpg',
+            DeployedLink: 'https://example.com/demo1',
             githubLink: 'https://github.com/example/demo1'
           },
+      
       ];
    
    
