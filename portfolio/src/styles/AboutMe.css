@@ -1,0 +1,47 @@
+.container2 {
+    margin: 75px;
+    padding: 5px;
+    max-width: 107rem;
+   
+}
+
+.about-me {
+    background-color: white;
+    overflow: hidden;
+    flex-direction: column;
+}
+
+
+.about-me-image {
+    border-radius: 20px;
+    width: 325px;
+    height: 310px;
+    margin: 90px;
+}
+
+.aboutme-content{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.about-text{
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  padding: 100px; 
+  max-width: 500px;
+}
+h3 {
+    color: black;
+    font-size: 150%;
+}
+h4 {
+    font-size: 200%;
+    color: black;
+}
+.about-p {
+    color: #2d2e32;
+    font-size: 20px;
+}
