@@ -12,8 +12,8 @@ const projects = [
       title: 'E-commerce Back End',
       description: 'jfdklala',
       imageSrc: proj1Image,
-      DeployedLink: 'https://example.com/demo1',
-      githubLink: 'https://github.com/example/demo1'
+      
+      githubLink: 'https://github.com/angelg12345/ORM-E-Commerce-Back-End'
     },
     {
         title: 'Project 1',
