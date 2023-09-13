@@ -8,9 +8,9 @@ export default function Header() {
     <header>
         <h1>AngelDev</h1>
       <nav>
-        <Link to="/">Home</Link>
-        <Link to="/portfolio">Portfolio</Link>
-        <Link to="/resume">Resume</Link>
+      <a href="#about">About Me</a>
+      <a href="#portfolio">Portfolio</a>
+      <a href="#resume">Resume</a>
       </nav>
       <Link to="/contact" className="button" >Contact</Link>
     </header>

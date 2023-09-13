@@ -1,4 +1,5 @@
 {
+  "homepage": "https://angelg12345.github.io/ReactPortfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -41,4 +42,5 @@
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
+  
 }
